@@ -19,4 +19,4 @@ It's a microsite that helping user to get shorten urls. It also has admin panel 
 
 ## Architecture Diagram
 
-<p align="center"><img src="https://shortenlink.bondwara.me/diagram.jpeg" width="600"></p>
+<p align="center"><img src="https://bondwara.me/diagram.jpeg" width="600"></p>
